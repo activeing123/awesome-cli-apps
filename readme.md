@@ -859,6 +859,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 - [lilbee](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
 - [mcptoon](https://github.com/activeing123/mcptoon) - Token-optimized CLI proxy for MCP (Model Context Protocol) servers. Reduces token usage by up to 80%.
+- [mcptoon](https://github.com/activeing123/mcptoon) - Token-optimized CLI proxy for MCP (Model Context Protocol) servers. Reduces token usage by up to 80%.
 
 ## Other Resources
 
